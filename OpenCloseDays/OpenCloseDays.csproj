@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+	  <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Holidays" Version="1.0.1" />
+		<PackageReference Include="PublicHoliday" Version="2.20.0" />
+	</ItemGroup>
+	
+</Project>
